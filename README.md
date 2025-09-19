@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java,DSA**
 
-- 📝 I regularly write articles on [## ✍️ Creative Writing & Shayari Alongside AI funny reels, I share soulful quotes and shayari that touch the heart. Check them out on my Instagram: [@soul_on_dislpay09](https://www.instagram.com/soul_on_display09?igsh=MXc2YnFweXFjcmVveA==)](## ✍️ Creative Writing & Shayari Alongside AI funny reels, I share soulful quotes and shayari that touch the heart. Check them out on my Instagram: [@soul_on_dislpay09](https://www.instagram.com/soul_on_display09?igsh=MXc2YnFweXFjcmVveA==))
+- 📝 I regularly write articles on [## ✍️ Creative Writing & Shayari Alongside AI funny reels, I share soulful quotes and shayari that touch the heart. Check them out on my Instagram: [@soul_on_dislpay09](https://www.instagram.com/soul_on_display09?igsh=MXc2YnFweXFjcmVveA==)(https://www.instagram.com/soul_on_display09?igsh=MXc2YnFweXFjcmVveA==))
 
 - 💬 Ask me about **git,github,java**
 
