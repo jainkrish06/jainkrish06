@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainkrish06&show_icons=true&locale=en" alt="jainkrish06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainkrish06&" alt="jainkrish06" /></p>
+my profile animation https://claude.ai/public/artifacts/140d521c-5a45-4bd9-aaa2-a31ecbbca000
