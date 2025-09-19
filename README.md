@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jainkrishna943@gmail.com**
 
-- ⚡ Fun fact **🤖 Fun Fact: My AI reels have made over 1 million people laugh — and zero AI got offended so far!**
+- ⚡ Fun fact **🤖 Fun Fact: My AI reels have made over 8 million people laugh — and zero AI got offended so far!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
